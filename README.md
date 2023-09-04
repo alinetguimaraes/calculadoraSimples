@@ -1,2 +1,2 @@
 # calculadoraSimples
-Calculadora simples, objeto de estudo
+Calculadora simples, objeto de estudo usando HTML, CSS e JavaScript
