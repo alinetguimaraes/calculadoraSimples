@@ -7,7 +7,7 @@ body{
 
 .container{
     width: 100vw;
-    height: 100vh;
+    height: 90vh;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -62,6 +62,10 @@ button{
     display: inline-block;
 }
 
+footer{
+    text-align: center;
+    color:#fff;
+}
 
 
 @media screen and (min-width: 48em) {
